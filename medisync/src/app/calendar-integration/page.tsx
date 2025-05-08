@@ -33,7 +33,7 @@ export default function GoogleCalendar() {
                     }
                 }}
             >
-                <iframe src="YOUR_GOOGLE_CALENDAR_IFRAME_URL" width="100%" height="100%"></iframe>
+                <iframe src="https://calendar.google.com/calendar/embed?src=jaimesilvarod%40gmail.com&ctz=America%2FBogota" width="100%" height="100%"></iframe>
             </dialog>
         </div>
     );
